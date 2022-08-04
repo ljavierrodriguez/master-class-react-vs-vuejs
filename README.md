@@ -11,4 +11,4 @@
 
 ### Assets Landing Page:
 
-- Template: index.html
+- Template: https://github.com/ljavierrodriguez/master-class-react-vs-vuejs/blob/master/index.html
